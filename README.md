@@ -15,7 +15,6 @@ About This Course:
 
 ```shell
 MONGO_URI=your_mongo_uri
-PORT=5000
 ```
 
 ### Run this app locally
