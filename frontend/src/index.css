@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .icon-btn {
+        @apply rounded-lg bg-[#272930] p-2 border-white
+    }
+}
