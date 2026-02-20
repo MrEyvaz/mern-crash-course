@@ -1,6 +1,6 @@
 <h1 align="center">MERN Crash Course 🚀</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+<img width="1041" height="639" alt="image" src="https://github.com/user-attachments/assets/7384aa41-797b-4c80-b840-67a0d4494d56" />
 
 About This Course:
 
